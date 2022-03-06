@@ -12,18 +12,18 @@
 #include <UniversalTelegramBot.h>
 #include <ArduinoJson.h>
 
-#define BOTtoken "1842571253:AAHAkN0hyEyvsLHxGUtTONCCs3EFgQSbtKA"  // BotFather'dan aldığınız TOKEN
-#define CHAT_ID "943122067"
+#define BOTtoken "*************************************************"  // BotFather'dan aldığınız TOKEN
+#define CHAT_ID "***************"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
 int botIstekGecikmesi = 1000;
 unsigned long botSonCalismaZamani;
 
-char auth[] = "zFmC_gZoSFgLpPlsUZ7A3nO1wxG3eqq6"; //Blynk Token.
+char auth[] = "**************************************"; //Blynk Token.
 char ssid[] = "SAHINEMLAK"; //Nodemcu nun bağlanacağı wifi ağının adı.
-char pass[] = "s4h1N_3mL4k"; //Nodemcu nun bağlanacağı wifi ağının şifresi.
-char password[] = "s4h1N_3mL4k";
+char pass[] = "***********"; //Nodemcu nun bağlanacağı wifi ağının şifresi.
+char password[] = "***********"; //Nodemcu nun bağlanacağı wifi ağının şifresi.
 unsigned long now = 0;
 unsigned long before = 0;
 int wait = 70000;
