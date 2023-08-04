@@ -54,6 +54,9 @@ Projede aşağıdaki özellikler bulunmaktadır:
 - Uzaktan kontrol (Blynk ve Telegram API entegrasyonu) 📲💬
 - OTA güncelleme desteği ile kablosuz güncellemeler 📡
 
+## Bağlantı Şeması
+![Bağlantı Şeması](ConnectionDiagram.svg)
+
 ## Lisans
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
@@ -117,6 +120,9 @@ The project includes the following features:
 - Automatic timer creation 🕒
 - Remote control (integration with Blynk and Telegram API) 📲💬
 - OTA updates for wireless firmware updates 📡
+
+## Connection Diagram
+![Connection Diagram](ConnectionDiagram.svg)
 
 ## License
 
