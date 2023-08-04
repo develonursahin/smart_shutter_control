@@ -55,7 +55,7 @@ Projede aşağıdaki özellikler bulunmaktadır:
 - OTA güncelleme desteği ile kablosuz güncellemeler 📡
 
 ## Lisans
-Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmıştır.
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 
 ## İletişim ve Destek 📧🤝
@@ -120,7 +120,7 @@ The project includes the following features:
 
 ## License
 
-This project is licensed under the [MIT License](LICENCE).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact and Support 📧🤝
 
